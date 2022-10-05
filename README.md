@@ -9,4 +9,5 @@
 ###### Side note: Yes, this is displayed in a jupyter notebook so you can visualize and test things by yourself easily. But if this code was designed in such way that if it is saved as a python script and executed it will do its job ;)
 
 
-#### Part 2) You will also find the source code for the part 2, please click on main_part2.ipynb to visualize it!
+#### Part 2) 
+You will also find the source code for the part 2, please click on main_part2.ipynb to visualize it!
